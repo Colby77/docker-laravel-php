@@ -58,6 +58,11 @@
         "sort-packages": true,
         "allow-plugins": {
             "pestphp/pest-plugin": true
+        },
+        "config": {
+            "platform": {
+                "php": "7.4.21"
+            }
         }
     },
     "minimum-stability": "dev",
